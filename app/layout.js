@@ -8,7 +8,7 @@ export const metadata = {
 const Layout = ({ children }) => {
   return (
     <html lang='en'>
-        <body>
+        <body suppressHydrationWarning={true}>
             <main>{children}</main>
         </body>
     </html>

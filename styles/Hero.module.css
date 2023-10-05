@@ -1,0 +1,28 @@
+.hero {
+    background-color: #FF7000;
+    position: relative;
+    width: 100%;
+    padding: 25vw 0;
+    border-radius: 0 0 1.5em 1.5em;
+}
+
+.companyName {
+    font-size: 28vw;
+    line-height: 24vw;
+    transform: scaleY(1.1);
+    letter-spacing: -0.04em;
+    text-align: center;
+    position: absolute;
+    top: 6%;
+    left: -0.5%;
+    width: 100%;
+    margin: auto;
+    color: #ffac4a;
+}
+
+.jobTitle {
+    text-align: center;
+    font-size: 2vw;
+    font-weight: 200;
+    color: #FFF;
+}
