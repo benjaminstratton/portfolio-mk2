@@ -28,12 +28,13 @@
   background-clip: text;
   background-size: 700%;
   animation: bg-animation 7s infinite alternate;
+  white-space: nowrap;
 }
 
 .jobTitle {
   text-align: center;
   font-size: 2vw;
-  font-weight: 200;
+  font-weight: 400;
   color: #fff;
 }
 
